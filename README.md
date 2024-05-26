@@ -1,1 +1,1 @@
-Social Synergy(https://socialsynergi.netlify.app/)
+[Social Synergy](https://socialsynergi.netlify.app/)
